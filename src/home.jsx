@@ -163,7 +163,11 @@ const home = () => {
                 </div>
 
                 <div>
-                        <TestimonialsSection />
+                    
+                </div>
+
+                <div>
+                    <TestimonialsSection/>
                 </div>
                 
 
