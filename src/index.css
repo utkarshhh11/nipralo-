@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+
+
+@keyframes carousel {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-carousel {
+  width: max-content;
+  animation: carousel 20s linear infinite;
+}
