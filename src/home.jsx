@@ -14,6 +14,7 @@ import Carousel from "./components/Carousel.jsx";
 import {CardHoverEffectDemo} from "./components/CardHoverEffectDemo.jsx"
 import Footer from './components/footer.jsx'
 import TestimonialsSection from "./components/TestimonialsSection.jsx";
+import map from '../src/assets/map.webp'
 
 
 
@@ -206,7 +207,7 @@ const home = () => {
 
                 <h4 className='text-amber-600 text-3xl font-bold pt-10'>Our Global Footprint</h4>
 
-                <img src="src/assets/map.webp" alt=""  className='h-160 ml-25 w-300'/>
+                <img src={map} alt=""  className='h-160 ml-25 w-300'/>
             </div>
 
           <div className='h-200 w-screen'>
