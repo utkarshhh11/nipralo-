@@ -24,7 +24,7 @@ const home = () => {
             <Navbar />
             <div className='h-216 w-screen '>
                 <video
-                    src="src/assets/16054598_3840_2160_60fps.mp4"
+                    src="https://www.pexels.com/download/video/37847138/"
                     autoPlay
                     loop
                     muted
