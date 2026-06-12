@@ -7,7 +7,7 @@ const cards = [
     description1 : "We are India's leading air freight forwarder, offering complete import and export logistics. Our volume advantage ensures competitive pricing and guaranteed space.",
     description2:"Our expert route planners optimize transit, carrier selection, and cargo handling. We reduce costs and transit time with on-demand pickup, drop-off, and warehousing.",
     description3:"",
-    image: "src/assets/image1.png",
+    image: "https://tse4.mm.bing.net/th/id/OIP.ITUaE1_lDXCYsoXE5LqfcQHaHa?r=0&cb=thfc1falcon2&rs=1&pid=ImgDetMain&o=7&rm=3",
     profit: "Speed Efficiency Reliability Affordability"
   },
   {
@@ -15,7 +15,7 @@ const cards = [
      description1 : "We offer global sea freight services via top shipping lines. Our team understands your products, transit needs, and budget.",
     description2:"With decades of experience, we plan, monitor, and manage shipments, ensuring compliance.",
     description3 :"We provide flexible FCL scheduling and cost-efficient LCL options. On-demand pickup, drop-off, and warehousing help cut costs and transit time.",
-    image: "src/assets/image2.png",
+    image: "https://www.xeneta.com/hubfs/ocean-freight-shipping.jpeg",
     profit: "Speed Efficiency Reliability Affordability"
   },
   {
@@ -23,7 +23,7 @@ const cards = [
     description1 : "Every shipment is unique, so we offer multiple affordable transport options.",
     description2:"Along with air and sea freight, we provide multimodal transport via our global network.",
     description3:"Our tailored solutions enable real-time cargo tracking. We streamline your supply chain as your single point of contact.",
-    image: "src/assets/image1.png",
+    image: "https://jenkar.com/wp-content/uploads/2024/07/multimodal-freight-forwarding-difference-jenkar-1536x1024.jpg",
     profit: "Speed Efficiency Reliability Affordability"
   },
 ];
